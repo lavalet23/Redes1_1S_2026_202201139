@@ -242,19 +242,15 @@ Configuración aplicada:
 ```bash
 enable
 configure terminal
-hostname NOMBRE_DEL_SWITCH
+hostname SW_L1
 enable secret 202201139
 line console 0
 password 202201139
 login
 exit
-line vty 0 4
-password 202201139
-login
-exit
 service password-encryption
-exit
-copy running-config startup-config
+end
+write memory
 ```
 
 ---
