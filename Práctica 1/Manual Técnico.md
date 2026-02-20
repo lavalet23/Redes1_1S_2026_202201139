@@ -242,7 +242,7 @@ Configuración aplicada:
 ```bash
 enable
 configure terminal
-hostname Ingenieria
+hostname *Nombre del switch*
 enable secret 202201139
 line console 0
 password 202201139
