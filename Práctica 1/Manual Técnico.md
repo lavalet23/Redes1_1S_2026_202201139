@@ -242,7 +242,7 @@ Configuración aplicada:
 ```bash
 enable
 configure terminal
-hostname SW_L1
+hostname Ingenieria
 enable secret 202201139
 line console 0
 password 202201139
