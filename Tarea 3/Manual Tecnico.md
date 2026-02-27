@@ -248,18 +248,23 @@ show interfaces trunk
 - Pings  
 
 Prueba de Ping 1 (Misma VLAN) - PC1 a PC2 
+
 ![PING 1](https://i.ibb.co/v6Jg51fL/Captura-de-pantalla-2026-02-26-174458.png) 
 
 Prueba de Ping 2 (Diferente VLAN) - PC0 a PC3 
+
 ![PING 2](https://i.ibb.co/9m1G5JQK/Captura-de-pantalla-2026-02-26-175010.png)
 
 - Comandos show  
 
 Comando "show vlan brief"
+
 ![Comando 1](https://i.ibb.co/HTChvLqV/Captura-de-pantalla-2026-02-26-175856.png)
 
-    Comando "show vtp status"
+Comando "show vtp status"
+
 ![Comando 2](https://i.ibb.co/kgcxMHLL/Captura-de-pantalla-2026-02-26-175913.png)
 
-    Comando "show interfaces trunk"
+Comando "show interfaces trunk"
+
 ![Comando 3](https://i.ibb.co/6cKhPwGd/Captura-de-pantalla-2026-02-26-175931.png)
