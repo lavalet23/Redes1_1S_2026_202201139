@@ -231,19 +231,10 @@ Estos comandos permiten validar el estado de los protocolos y enlaces configurad
 
 ---
 
-## Presupuesto Estimado
-
-| Equipo | Cantidad | Precio |
-|-------|--------|--------|
-| Switches | [Cantidad] | [Precio] |
-| Cable UTP | [Cantidad] | [Precio] |
-| Fibra óptica | [Cantidad] | [Precio] |
-
----
 
 ## Archivo del Proyecto
 
-- **Nombre del archivo:** Proyecto1_[Carnet].pkt  
+- **Nombre del archivo:** Proyecto1_202201139.pkt  
 - **Herramienta utilizada:** Cisco Packet Tracer  
 
 ---
